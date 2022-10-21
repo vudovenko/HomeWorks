@@ -94,22 +94,14 @@
   <div class="Middle">
     <div class="wrap">
       <main class="Middle-main">
-        <h1 class="Middle-title">Авторы
-        </h1>
+        <h1 class="Middle-title">Авторы</h1>
         <div class="Section">
           <div class="Authors">
-
             <div class="Authors-links" th:each="element : ${authorData}">
-              <a class="Authors-link" th:href="'#' + ${#strings.toLowerCase(element.key)}" th:text="${element.key}">
-                A
-              </a>
+              <a class="Authors-link" th:href="'#' + ${#strings.toLowerCase(element.key)}" th:text="${element.key}">A</a>
             </div>
-
             <div class="Authors-block" th:each="element : ${authorData}">
-
-              <h2 class="Authors-title" th:id="${#strings.toLowerCase(element.key)}" th:text="${element.key}">A
-              </h2>
-
+              <h2 class="Authors-title" th:id="${#strings.toLowerCase(element.key)}" th:text="${element.key}">A</h2>
               <div class="Authors-letter" th:each="authors : ${element.value}">
                 <div th:each="author : ${authors}">
                     <div class="Authors-item">
@@ -117,9 +109,7 @@
                     </div>
                 </div>
               </div>
-
             </div>
-
           </div>
         </div>
       </main>
