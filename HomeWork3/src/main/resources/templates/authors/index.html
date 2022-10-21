@@ -98,11 +98,50 @@
         </h1>
         <div class="Section">
           <div class="Authors">
-            <div class="Authors-links"><a class="Authors-link" href="#a">А</a><a class="Authors-link" href="#b">Б</a><a class="Authors-link" href="#v">В</a><a class="Authors-link" href="#g">Г</a><a class="Authors-link" href="#d">Д</a><a class="Authors-link" href="#e">Е</a><a class="Authors-link" href="#e">Ё</a><a class="Authors-link" href="#ge">Ж</a><a class="Authors-link" href="#z">З</a><a class="Authors-link" href="#i">И</a><a class="Authors-link" href="#ik">Й</a><a class="Authors-link" href="#k">К</a><a class="Authors-link" href="#l">Л</a><a class="Authors-link" href="#m">М</a><a class="Authors-link" href="#n">Н</a><a class="Authors-link" href="#o">О</a><a class="Authors-link" href="#p">П</a><a class="Authors-link" href="#r">Р</a><a class="Authors-link" href="#s">С</a><a class="Authors-link" href="#t">Т</a><a class="Authors-link" href="#u">У</a><a class="Authors-link" href="#f">Ф</a><a class="Authors-link" href="#h">Х</a><a class="Authors-link" href="#c">Ц</a><a class="Authors-link" href="#ch">Ч</a><a class="Authors-link" href="#sh">Ш</a><a class="Authors-link" href="#shh">Щ</a><a class="Authors-link" href="#ye">Э</a><a class="Authors-link" href="#yu">Ю</a><a class="Authors-link" href="#ya">Я</a>
+
+            <div class="Authors-links" th:each="element : ${authorData}">
+              <a class="Authors-link" th:href="'#' + ${#strings.toLowerCase(element.key)}" th:text="${element.key}">
+                A
+              </a>
             </div>
+
+            <div class="Authors-block" th:each="element : ${authorData}">
+
+              <h2 class="Authors-title" th:id="${#strings.toLowerCase(element.key)}" th:text="${element.key}">A
+              </h2>
+
+              <div class="Authors-letter" th:each="authors : ${element.value}">
+                <div th:each="author : ${authors}">
+                    <div class="Authors-item">
+                        <a href="/authors/slug.html" th:text="${author}">Абгарян Наринэ</a>
+                    </div>
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <!--<div class="Middle">
+      <div class="wrap">
+          <main class="Middle-main">
+              <h1 class="Middle-title">Авторы
+              </h1>
+              <div class="Section">
+                <div class="Authors">
+                  <div class="Authors-links">
+                      <a class="Authors-link" href="#a">А</a>
+                      <a class="Authors-link" href="#b">Б</a>
+                  </div>
+
             <div class="Authors-block">
               <h2 class="Authors-title" id="a">А
               </h2>
+
               <div class="Authors-letter">
                 <div class="Authors-item"><a href="/authors/slug.html">Абгарян Наринэ</a>
                 </div>
@@ -3228,7 +3267,7 @@
         </div>
       </main>
     </div>
-  </div>
+  </div>-->
   <footer class="Footer">
     <div class="wrap">
       <div class="row Footer-main">
