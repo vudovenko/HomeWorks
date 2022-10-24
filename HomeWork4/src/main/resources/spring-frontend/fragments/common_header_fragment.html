@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<body>
+<header class="Header" th:fragment="headFragment">
+    <div th:replace="fragments/header_menu_fragment :: headerMenuFragment"></div>
+    <div class="Header-menu">
+        <div class="wrap">
+            <nav class="menuModal" id="navigate">
+                <ul class="menu menu_main">
+                    <li class="menu-item"
+                        th:classappend="${#httpServletRequest.requestURI.equals('/')} ? 'menu-item_ACTIVE'">
+                        <a class="menu-link" href="/index.hml"
+                           th:href="@{/}" th:text="#{topbar.main}">Главная</a>
+                    </li>
+                    <li class="menu-item" th:classappend="${#httpServletRequest.requestURI.equals('/genres')} ? 'menu-item_ACTIVE'">
+                        <a class="menu-link" href="/genres/index.html"
+                           th:href="@{/genres}" th:text="#{topbar.genres}">Жанры</a>
+                    </li>
+                    <li class="menu-item" th:classappend="${#httpServletRequest.requestURI.equals('/books/recent')} ? 'menu-item_ACTIVE'">
+                        <a class="menu-link" href="/books/recent.html"
+                           th:href="@{/books/recent}" th:text="#{topbar.news}">Новинки</a>
+                    </li>
+                    <li class="menu-item" th:classappend="${#httpServletRequest.requestURI.equals('/books/popular')} ? 'menu-item_ACTIVE'">
+                        <a class="menu-link" href="/books/popular.html"
+                           th:href="@{/books/popular}" th:text="#{topbar.popular}">Популярное</a>
+                    </li>
+                    <li class="menu-item" th:classappend="${#httpServletRequest.requestURI.equals('/authors')} ? 'menu-item_ACTIVE'">
+                        <a class="menu-link" href="/authors/index.html"
+                           th:href="@{/authors}" th:text="#{topbar.authors}">Авторы</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</header>
+</body>
+</html>
