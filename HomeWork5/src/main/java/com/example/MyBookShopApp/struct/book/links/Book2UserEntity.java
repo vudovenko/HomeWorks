@@ -11,7 +11,7 @@ public class Book2UserEntity {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
 
-    @Column(columnDefinition = "TIMESTAMP NOT NULL")
+    @Column(columnDefinition = "date NOT NULL")
     private LocalDateTime time;
 
     @Column(columnDefinition = "INT NOT NULL")

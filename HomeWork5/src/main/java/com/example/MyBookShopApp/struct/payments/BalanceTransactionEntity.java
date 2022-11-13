@@ -14,7 +14,7 @@ public class BalanceTransactionEntity {
     @Column(name = "user_id", columnDefinition = "INT NOT NULL")
     private int userId;
 
-    @Column(columnDefinition = "TIMESTAMP NOT NULL")
+    @Column(columnDefinition = "date NOT NULL")
     private LocalDateTime time;
 
     @Column(columnDefinition = "INT NOT NULL  DEFAULT 0")
