@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42914e74-272a-42ab-b04b-a0ea490581be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gKtymq4zsjtyQfbzyFi4h0yFtR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.MyBookShopApp.data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyBookShopAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="MyBookShopApp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.MyBookShopApp.MyBookShopAppApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42914e74-272a-42ab-b04b-a0ea490581be" name="Default Changelist" comment="" />
+      <created>1597875368680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597875368680</updated>
+      <workItem from="1597875370076" duration="1422000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1597876237597">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1597876237597" />
+    <state width="1398" height="486" key="GridCell.Tab.0.bottom" timestamp="1597876663054">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="486" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597876663054" />
+    <state width="1398" height="486" key="GridCell.Tab.0.center" timestamp="1597876663052">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="486" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1597876663052" />
+    <state width="1398" height="486" key="GridCell.Tab.0.left" timestamp="1597876663051">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="486" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1597876663051" />
+    <state width="1398" height="486" key="GridCell.Tab.0.right" timestamp="1597876663053">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="486" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1597876663053" />
+    <state width="1398" height="486" key="GridCell.Tab.1.bottom" timestamp="1597876663057">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="486" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597876663057" />
+    <state width="1398" height="486" key="GridCell.Tab.1.center" timestamp="1597876663055">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="486" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1597876663055" />
+    <state width="1398" height="486" key="GridCell.Tab.1.left" timestamp="1597876663054">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="486" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1597876663054" />
+    <state width="1398" height="486" key="GridCell.Tab.1.right" timestamp="1597876663056">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="486" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1597876663056" />
+    <state x="258" y="123" key="Maven.ArtifactSearchDialog" timestamp="1597875859288">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="258" y="123" key="Maven.ArtifactSearchDialog/0.23.1440.877@0.23.1440.877" timestamp="1597875859288" />
+  </component>
+</project>
