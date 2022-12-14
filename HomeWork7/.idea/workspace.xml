@@ -22,7 +22,326 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2364bed9-86ca-4ecc-b071-70bdecd13c53" name="Default Changelist" comment="hw7 123 f.1" />
+    <list default="true" id="2364bed9-86ca-4ecc-b071-70bdecd13c53" name="Default Changelist" comment="hw6 2.2 f">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/bookshop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bookshop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_classgraph_classgraph_4_8_83.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_classgraph_classgraph_4_8_83.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_bean_validators_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_bean_validators_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_boot_starter_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_boot_starter_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_data_rest_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_data_rest_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_oas_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_oas_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_webflux_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_webflux_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_webmvc_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_webmvc_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_annotations_2_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_annotations_2_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_models_2_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_models_2_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_14.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_14.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_37.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_37.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_37.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_37.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_16_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_16_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_20_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_20_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_1_3_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_1_3_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_3_1_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_3_1_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_3_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_3_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_3_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_3_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_14.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_3_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_3_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_2_0_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_2_0_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_2_0_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_2_0_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/resourceBundles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/resourceBundles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__com_h2database_h2_1_4_200.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__com_h2database_h2_1_4_200.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_14.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_14.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_37.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_37.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_37.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_37.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_assertj_assertj_core_3_16_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_assertj_assertj_core_3_16_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_mockito_mockito_core_3_3_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_mockito_mockito_core_3_3_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_3_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_3_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_spring_aop_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_spring_aop_5_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_spring_beans_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_spring_beans_5_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_spring_context_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_spring_context_5_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_spring_core_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_spring_core_5_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_spring_expression_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_spring_expression_5_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_spring_test_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_spring_test_5_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_spring_tx_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_spring_tx_5_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_spring_web_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_spring_web_5_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/HELP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/MyBookShopApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/MyBookShopApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/src/main/java/com/example/MyBookShopApp/MyBookShopAppApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/src/main/java/com/example/MyBookShopApp/MyBookShopAppApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/src/main/java/com/example/MyBookShopApp/config/CommandLineRunnerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/src/main/java/com/example/MyBookShopApp/config/CommandLineRunnerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/src/main/java/com/example/MyBookShopApp/controllers/BooksController.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/src/main/java/com/example/MyBookShopApp/controllers/BooksController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/src/main/resources/lang/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/src/main/resources/lang/messages.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/src/main/resources/lang/messages_en.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/src/main/resources/lang/messages_en.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/src/main/resources/lang/messages_ru.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/src/main/resources/lang/messages_ru.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/src/test/java/com/example/MyBookShopApp/MyBookShopAppApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/src/test/java/com/example/MyBookShopApp/MyBookShopAppApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/com/example/MyBookShopApp/config/CommandLineRunnerImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/com/example/MyBookShopApp/config/CommandLineRunnerImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/com/example/MyBookShopApp/controllers/BooksController.class" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/com/example/MyBookShopApp/controllers/BooksController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/lang/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/lang/messages.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/lang/messages_en.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/lang/messages_en.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/lang/messages_ru.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/lang/messages_ru.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/breadcrumbs/breadcrumbs.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/breadcrumbs/breadcrumbs.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/button/button.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/button/button.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/form/form.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/form/form.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/jCalendar/jCalendar.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/jCalendar/jCalendar.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/logo/logo.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/logo/logo.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/media/media.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/media/media.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/menu/menu.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/menu/menu.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/modal/modal.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/modal/modal.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/pict/pict.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/pict/pict.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/row/row.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/row/row.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/search/search.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/search/search.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/table/table.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/table/table.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/tags/tags.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/tags/tags.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/wrap/wrap.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/basic/wrap/wrap.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Article/Article.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Article/Article.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Author/Author.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Author/Author.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Authors/Authors.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Authors/Authors.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Card/Card.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Card/Card.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Cart/Cart.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Cart/Cart.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/CartBlock/CartBlock.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/CartBlock/CartBlock.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Comments/Comments.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Comments/Comments.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Contacts/Contacts.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Contacts/Contacts.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Documents/Documents.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Documents/Documents.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/FAQ/FAQ.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/FAQ/FAQ.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Footer/Footer.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Footer/Footer.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Header/Header.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Header/Header.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/HideBlock/HideBlock.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/HideBlock/HideBlock.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Login/Login.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Login/Login.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Middle/Middle.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Middle/Middle.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Product/Product.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Product/Product.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/ProductCard/ProductCard.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/ProductCard/ProductCard.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Profile/Profile.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Profile/Profile.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Rating/Rating.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Rating/Rating.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Section/Section.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Section/Section.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Slider/Slider.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Slider/Slider.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Spoiler/Spoiler.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Spoiler/Spoiler.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Tabs/Tabs.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Tabs/Tabs.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Tags/Tags.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Tags/Tags.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Topup/Topup.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Topup/Topup.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Transactions/Transactions.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/bricks/extra/Transactions/Transactions.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/basic.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/basic.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/cosmetic.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/cosmetic.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/extra.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/extra.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/frame-function.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/frame-function.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/frame-style.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/frame-style.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/icons.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/icons.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/mixins.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/mixins.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/normalize.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/normalize.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/clearfix.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/clearfix.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/helpers/col-span-width.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/helpers/col-span-width.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/helpers/timing-functions.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/helpers/timing-functions.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/ie.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/ie.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/index.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/index.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/media/hidpi.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/media/hidpi.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/media/width-height.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/media/width-height.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/opacity.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/opacity.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/text/ellipsis.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/text/ellipsis.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/text/font-face.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/text/font-face.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/text/hide-text.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/text/hide-text.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/triangle.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/triangle.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/units/em.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/units/em.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/units/percentage.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/units/percentage.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/units/ratio-percentage.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/units/ratio-percentage.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/units/ratio.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/units/ratio.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/units/rem.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/units/rem.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/units/tracking.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus-mixins/units/tracking.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/frame-function.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/frame-function.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/frame-style.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/frame-style.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/icons.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/icons.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/mixins.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/mixins.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/normalize.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/normalize.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/scripts/index.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/scripts/index.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/scripts/scripts.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/scripts/scripts.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/scripts/slick.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/scripts/slick.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/clearfix.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/clearfix.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/helpers/col-span-width.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/helpers/col-span-width.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/helpers/timing-functions.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/helpers/timing-functions.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/ie.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/ie.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/index.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/index.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/media/hidpi.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/media/hidpi.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/media/width-height.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/media/width-height.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/opacity.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/opacity.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/text/ellipsis.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/text/ellipsis.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/text/font-face.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/text/font-face.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/text/hide-text.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/text/hide-text.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/triangle.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/triangle.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/units/em.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/units/em.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/units/percentage.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/units/percentage.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/units/ratio-percentage.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/units/ratio-percentage.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/units/ratio.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/units/ratio.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/units/rem.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/units/rem.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/units/tracking.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/stylus-mixins/units/tracking.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/variables.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/stylus/variables.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/variables.styl" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/stylus/variables.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/swagger.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/target/classes/spring-frontend/swagger.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,13 +351,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MyBookShopApp" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -56,10 +375,9 @@
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/vladi/IdeaProjects/skillbox/hw6",
+    "last_opened_file_path": "C:/Users/vladi/IdeaProjects/HomeWorks/HomeWork7/MyBookShopApp/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,14 +392,13 @@
       <recent name="com.example.MyBookShopApp.data" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\vladi\IdeaProjects\skillbox\hw6\MyBookShopApp\src\main\java\com\example\MyBookShopApp" />
-      <recent name="C:\Users\vladi\IdeaProjects\skillbox\hw6\MyBookShopApp\src\main\resources\spring-frontend\assets\js" />
-      <recent name="C:\Users\vladi\IdeaProjects\skillbox\hw6\MyBookShopApp\src\main\resources\spring-frontend\assets\css" />
+      <recent name="C:\Users\vladi\IdeaProjects\HomeWorks\HomeWork7\MyBookShopApp\src\main\resources" />
+      <recent name="C:\Users\vladi\IdeaProjects\HomeWorks\HomeWork7\MyBookShopApp\src\main\resources\spring-frontend" />
+      <recent name="C:\Users\vladi\IdeaProjects\HomeWorks\HomeWork7\MyBookShopApp\src\main\java\com\example\MyBookShopApp" />
       <recent name="$PROJECT_DIR$/MyBookShopApp/src/main/resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example.MyBookShopApp.controllers" />
-      <recent name="com.example.MyBookShopApp.data" />
     </key>
   </component>
   <component name="RunManager">
@@ -122,24 +439,9 @@
       <workItem from="1669997906085" duration="4875000" />
       <workItem from="1670002865171" duration="3733000" />
       <workItem from="1670062919267" duration="11043000" />
-      <workItem from="1670087338546" duration="1192000" />
-      <workItem from="1670239167685" duration="9345000" />
-      <workItem from="1670331967364" duration="597000" />
-      <workItem from="1670418567854" duration="740000" />
-      <workItem from="1670481059669" duration="5072000" />
-      <workItem from="1670496784020" duration="2968000" />
-      <workItem from="1670503198948" duration="18984000" />
-      <workItem from="1670566695628" duration="11583000" />
-      <workItem from="1670619789800" duration="2008000" />
-      <workItem from="1670766136907" duration="36000" />
-      <workItem from="1670789048226" duration="44000" />
-      <workItem from="1670940840062" duration="18149000" />
-      <workItem from="1671019249736" duration="699000" />
-      <workItem from="1671023558075" duration="10588000" />
-      <workItem from="1671040453225" duration="26000" />
-      <workItem from="1671042401765" duration="295000" />
-      <workItem from="1671043859180" duration="49000" />
-      <workItem from="1671044153313" duration="932000" />
+      <workItem from="1670087338546" duration="911000" />
+      <workItem from="1670088952001" duration="259000" />
+      <workItem from="1671048558291" duration="3564000" />
     </task>
     <task id="LOCAL-00001" summary="hw6 1 f">
       <created>1669633886747</created>
@@ -162,84 +464,7 @@
       <option name="project" value="LOCAL" />
       <updated>1670079447709</updated>
     </task>
-    <task id="LOCAL-00004" summary="lesson 7.1">
-      <created>1670487605432</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1670487605432</updated>
-    </task>
-    <task id="LOCAL-00005" summary="lesson 7.2">
-      <created>1670516690336</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1670516690336</updated>
-    </task>
-    <task id="LOCAL-00006" summary="lesson 7.3">
-      <created>1670525995980</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1670525995980</updated>
-    </task>
-    <task id="LOCAL-00007" summary="lesson 7.4">
-      <created>1670531918382</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1670531918382</updated>
-    </task>
-    <task id="LOCAL-00008" summary="hw7 1f">
-      <created>1670600914114</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1670600914114</updated>
-    </task>
-    <task id="LOCAL-00009" summary="hw7 2f">
-      <created>1670958444237</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1670958444237</updated>
-    </task>
-    <task id="LOCAL-00010" summary="hw7 3 1/2">
-      <created>1670966305644</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1670966305644</updated>
-    </task>
-    <task id="LOCAL-00011" summary="hw7 3 1/2 without the correct display of the book review time">
-      <created>1671029429023</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1671029429023</updated>
-    </task>
-    <task id="LOCAL-00012" summary="hw7 3 1/2 without the correct display of the book review time">
-      <created>1671029675630</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1671029675630</updated>
-    </task>
-    <task id="LOCAL-00013" summary="hw7 3f">
-      <created>1671040159581</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1671040159581</updated>
-    </task>
-    <task id="LOCAL-00014" summary="hw7 123 f.1">
-      <created>1671044189238</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1671044189238</updated>
-    </task>
-    <option name="localTasksCounter" value="15" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,19 +475,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="edu_master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -277,41 +490,21 @@
     <MESSAGE value="hw6 2.1 f" />
     <MESSAGE value="hw6 2.2 1/2" />
     <MESSAGE value="hw6 2.2 f" />
-    <MESSAGE value="lesson 7.1" />
-    <MESSAGE value="lesson 7.2" />
-    <MESSAGE value="lesson 7.3" />
-    <MESSAGE value="lesson 7.4" />
-    <MESSAGE value="hw7 1f" />
-    <MESSAGE value="hw7 2f" />
-    <MESSAGE value="hw7 3 1/2" />
-    <MESSAGE value="hw7 3 1/2 without the correct display of the book review time" />
-    <MESSAGE value="hw7 3 f" />
-    <MESSAGE value="hw7 3f" />
-    <MESSAGE value="hw7 123 f.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw7 123 f.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw6 2.2 f" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/MyBookShopApp/src/main/java/com/example/MyBookShopApp/data/ResourceStorage.java</url>
-          <line>36</line>
+          <url>file://$PROJECT_DIR$/MyBookShopApp/src/main/java/com/example/MyBookShopApp/controllers/BooksController.java</url>
+          <line>39</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/MyBookShopApp/src/main/java/com/example/MyBookShopApp/controllers/BookshopCartController.java</url>
-          <line>74</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/MyBookShopApp/src/main/java/com/example/MyBookShopApp/controllers/BooksController.java</url>
-          <line>116</line>
-          <option name="timeStamp" value="20" />
+          <line>114</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.lang.NullPointerException" package="java.lang" />
-          <option name="timeStamp" value="17" />
-        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
