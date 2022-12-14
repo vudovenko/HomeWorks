@@ -23,8 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2364bed9-86ca-4ecc-b071-70bdecd13c53" name="Default Changelist" comment="hw7 3f">
-      <change beforePath="$PROJECT_DIR$/../HomeWork6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw6/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBookShopApp/src/main/resources/spring-frontend" beforeDir="false" afterPath="$PROJECT_DIR$/MyBookShopApp/src/main/resources/spring-frontend" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MyBookShopApp" />
     <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -62,7 +62,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/vladi/IdeaProjects/HomeWorks/HomeWork6",
+    "last_opened_file_path": "C:/Users/vladi/IdeaProjects/skillbox/hw6",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -139,9 +139,8 @@
       <workItem from="1670940840062" duration="18149000" />
       <workItem from="1671019249736" duration="699000" />
       <workItem from="1671023558075" duration="10588000" />
-      <workItem from="1671040483255" duration="150000" />
-      <workItem from="1671040750657" duration="221000" />
-      <workItem from="1671041010187" duration="9000" />
+      <workItem from="1671040453225" duration="26000" />
+      <workItem from="1671042401765" duration="238000" />
     </task>
     <task id="LOCAL-00001" summary="hw6 1 f">
       <created>1669633886747</created>
@@ -251,7 +250,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="edu_master" />
                       </list>
                     </value>
                   </entry>
