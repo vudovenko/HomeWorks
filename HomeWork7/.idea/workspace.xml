@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2364bed9-86ca-4ecc-b071-70bdecd13c53" name="Default Changelist" comment="hw7 3f">
+      <change beforePath="$PROJECT_DIR$/../HomeWork6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw6/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1hZ8cgA2fTjOtYAg4NpX6Xk4Tvf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/vladi/IdeaProjects/HomeWorks/HomeWork6",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "spring.configuration.checksum": "23e8536bc8dc0fd96e2c664fb4be4f0c"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.MyBookShopApp.data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vladi\IdeaProjects\skillbox\hw6\MyBookShopApp\src\main\java\com\example\MyBookShopApp" />
+      <recent name="C:\Users\vladi\IdeaProjects\skillbox\hw6\MyBookShopApp\src\main\resources\spring-frontend\assets\js" />
+      <recent name="C:\Users\vladi\IdeaProjects\skillbox\hw6\MyBookShopApp\src\main\resources\spring-frontend\assets\css" />
+      <recent name="$PROJECT_DIR$/MyBookShopApp/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.MyBookShopApp.controllers" />
+      <recent name="com.example.MyBookShopApp.data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyBookShopAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="MyBookShopApp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.MyBookShopApp.MyBookShopAppApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2364bed9-86ca-4ecc-b071-70bdecd13c53" name="Default Changelist" comment="" />
+      <created>1600207334396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600207334396</updated>
+      <workItem from="1600207335655" duration="32380000" />
+      <workItem from="1601160521024" duration="3828000" />
+      <workItem from="1601166930994" duration="1009000" />
+      <workItem from="1602457730735" duration="1669000" />
+      <workItem from="1603052251685" duration="3303000" />
+      <workItem from="1603056740244" duration="63000" />
+      <workItem from="1603058871794" duration="6991000" />
+      <workItem from="1603069294589" duration="1676000" />
+      <workItem from="1604574508902" duration="5572000" />
+      <workItem from="1604939330942" duration="158000" />
+      <workItem from="1604939544924" duration="7421000" />
+      <workItem from="1604966394705" duration="1860000" />
+      <workItem from="1605035543538" duration="5117000" />
+      <workItem from="1669630897719" duration="10861000" />
+      <workItem from="1669650428408" duration="4279000" />
+      <workItem from="1669997906085" duration="4875000" />
+      <workItem from="1670002865171" duration="3733000" />
+      <workItem from="1670062919267" duration="11043000" />
+      <workItem from="1670087338546" duration="1192000" />
+      <workItem from="1670239167685" duration="9345000" />
+      <workItem from="1670331967364" duration="597000" />
+      <workItem from="1670418567854" duration="740000" />
+      <workItem from="1670481059669" duration="5072000" />
+      <workItem from="1670496784020" duration="2968000" />
+      <workItem from="1670503198948" duration="18984000" />
+      <workItem from="1670566695628" duration="11583000" />
+      <workItem from="1670619789800" duration="2008000" />
+      <workItem from="1670766136907" duration="36000" />
+      <workItem from="1670789048226" duration="44000" />
+      <workItem from="1670940840062" duration="18149000" />
+      <workItem from="1671019249736" duration="699000" />
+      <workItem from="1671023558075" duration="10588000" />
+      <workItem from="1671040483255" duration="150000" />
+      <workItem from="1671040750657" duration="221000" />
+      <workItem from="1671041010187" duration="9000" />
+    </task>
+    <task id="LOCAL-00001" summary="hw6 1 f">
+      <created>1669633886747</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669633886747</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hw6 2 0.3">
+      <created>1669634550487</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669634550487</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hw6 2.2 f">
+      <created>1670079447708</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670079447709</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lesson 7.1">
+      <created>1670487605432</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670487605432</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lesson 7.2">
+      <created>1670516690336</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670516690336</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lesson 7.3">
+      <created>1670525995980</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670525995980</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lesson 7.4">
+      <created>1670531918382</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670531918382</updated>
+    </task>
+    <task id="LOCAL-00008" summary="hw7 1f">
+      <created>1670600914114</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670600914114</updated>
+    </task>
+    <task id="LOCAL-00009" summary="hw7 2f">
+      <created>1670958444237</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670958444237</updated>
+    </task>
+    <task id="LOCAL-00010" summary="hw7 3 1/2">
+      <created>1670966305644</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670966305644</updated>
+    </task>
+    <task id="LOCAL-00011" summary="hw7 3 1/2 without the correct display of the book review time">
+      <created>1671029429023</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1671029429023</updated>
+    </task>
+    <task id="LOCAL-00012" summary="hw7 3 1/2 without the correct display of the book review time">
+      <created>1671029675630</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1671029675630</updated>
+    </task>
+    <task id="LOCAL-00013" summary="hw7 3f">
+      <created>1671040159581</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1671040159581</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/spring-frontend" />
+    </ignored-roots>
+    <MESSAGE value="hw6 1 f" />
+    <MESSAGE value="hw6 2 0.3" />
+    <MESSAGE value="hw6 2.1 f" />
+    <MESSAGE value="hw6 2.2 1/2" />
+    <MESSAGE value="hw6 2.2 f" />
+    <MESSAGE value="lesson 7.1" />
+    <MESSAGE value="lesson 7.2" />
+    <MESSAGE value="lesson 7.3" />
+    <MESSAGE value="lesson 7.4" />
+    <MESSAGE value="hw7 1f" />
+    <MESSAGE value="hw7 2f" />
+    <MESSAGE value="hw7 3 1/2" />
+    <MESSAGE value="hw7 3 1/2 without the correct display of the book review time" />
+    <MESSAGE value="hw7 3 f" />
+    <MESSAGE value="hw7 3f" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw7 3f" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MyBookShopApp/src/main/java/com/example/MyBookShopApp/data/ResourceStorage.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MyBookShopApp/src/main/java/com/example/MyBookShopApp/controllers/BookshopCartController.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MyBookShopApp/src/main/java/com/example/MyBookShopApp/controllers/BooksController.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="17" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
